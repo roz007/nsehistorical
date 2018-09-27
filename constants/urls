@@ -1,0 +1,4 @@
+
+
+BHAV_COPY_EQUITY_URL = 'https://www.nseindia.com/content/historical/EQUITIES/{}/{}/cm{}{}{}bhav.csv.zip'
+# BHAV_COPY_EQUITY = f'https://www.nseindia.com/content/historical/EQUITIES/2001/FEB/cm06FEB2001bhav.csv.zip'
